@@ -1,7 +1,5 @@
 # mini_dashboard_frontend
 
-Hello,
-
 To install the dependencies for this project, run the following command in the root directory of the project:
 
 ```
